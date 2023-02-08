@@ -26,7 +26,7 @@ My greatest challenge in the project was losing my little dog then. So it took a
 - I attended the Sunday meetings and the classes to do my best at each project segment. This also helped me understand all the steps and be in the project.
 - I reviewed all the codes to understand them and to resume the project.
 
-## Project and Team Summary
+# Project and Team Summary
 
 ### Scheduling of the project:
 
