@@ -38,8 +38,6 @@ We made the plan at the beginning, but we revised it while preparing it. We were
 ### Machine Learning Models used:
  - Random Forest
  - Multiple Linear Regression
- - Gradient Boosting
- - Neural Network
  
 ### The Result
 
