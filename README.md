@@ -39,7 +39,7 @@ We made the plan at the beginning, but we revised it while preparing it. We were
  - Random Forest
  - Multiple Linear Regression
  
-### The Result
+### The Result 
 
 The most significant result of this project is the age of the houses. The newest homes are selling at the highest price
 
